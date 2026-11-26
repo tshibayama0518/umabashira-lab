@@ -1,0 +1,152 @@
+{
+    "id":  "202605050812",
+    "taken":  "2026-11-26 18:56:01",
+    "status":  "yoso",
+    "official":  "2026-11-26 18:45:45",
+    "horses":  [
+                   {
+                       "name":  "ヘデントール",
+                       "num":  "1",
+                       "cancel":  false,
+                       "win":  "12.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "コスモキュランダ",
+                       "num":  "2",
+                       "cancel":  false,
+                       "win":  "77.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "メイショウタバル",
+                       "num":  "3",
+                       "cancel":  false,
+                       "win":  "13.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "クロワデュノール",
+                       "num":  "4",
+                       "cancel":  false,
+                       "win":  "6.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "シェイクユアハート",
+                       "num":  "5",
+                       "cancel":  false,
+                       "win":  "46.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "マスカレードボール",
+                       "num":  "6",
+                       "cancel":  false,
+                       "win":  "5.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ファイアンクランツ",
+                       "num":  "7",
+                       "cancel":  false,
+                       "win":  "30.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "オンブズマン",
+                       "num":  "8",
+                       "cancel":  false,
+                       "win":  "4.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "カランダガン",
+                       "num":  "9",
+                       "cancel":  false,
+                       "win":  "2.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ミニーホーク",
+                       "num":  "10",
+                       "cancel":  false,
+                       "win":  "25.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ヴェルテンベルク",
+                       "num":  "11",
+                       "cancel":  false,
+                       "win":  "61.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "テアオ",
+                       "num":  "12",
+                       "cancel":  false,
+                       "win":  "81.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "アーバンシック",
+                       "num":  "13",
+                       "cancel":  false,
+                       "win":  "53.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "タガノデュード",
+                       "num":  "14",
+                       "cancel":  false,
+                       "win":  "39.3",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エキサイトバイオ",
+                       "num":  "15",
+                       "cancel":  false,
+                       "win":  "113.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ダノンデサイル",
+                       "num":  "16",
+                       "cancel":  false,
+                       "win":  "3.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ゴリアット",
+                       "num":  "17",
+                       "cancel":  false,
+                       "win":  "106.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エシカルダイヤモンド",
+                       "num":  "18",
+                       "cancel":  false,
+                       "win":  "228.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   }
+               ]
+}
