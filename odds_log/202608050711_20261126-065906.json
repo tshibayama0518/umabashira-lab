@@ -1,0 +1,104 @@
+{
+    "id":  "202608050711",
+    "taken":  "2026-11-26 06:59:05",
+    "status":  "yoso",
+    "official":  "2026-11-26 06:45:33",
+    "horses":  [
+                   {
+                       "name":  "アーケントレイル",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "23.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エトワールハマー",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "8.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ゴールデンプロミス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "8.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "サノノキセキ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "66.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "シャローチャンプ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "19.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ショウナンバトレニ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "7.3",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "タプティ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "94.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ドラゴンバルド",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "3.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ネーロノワール",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "3.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ノヴァヴェローチェ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "5.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "フェイマスジャズ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "35.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ポルトブルー",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "43.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   }
+               ]
+}

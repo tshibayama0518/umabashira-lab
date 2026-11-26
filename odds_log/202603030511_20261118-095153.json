@@ -1,0 +1,192 @@
+{
+    "id":  "202603030511",
+    "taken":  "2026-11-18 09:51:53",
+    "status":  "yoso",
+    "official":  "2026-11-18 09:45:10",
+    "horses":  [
+                   {
+                       "name":  "アラタ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "75.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ヴィスマール",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "49.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エキサイトバイオ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "9.8",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "オニャンコポン",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "54.3",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "カテリーナ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "30.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "カラマティアノス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "8.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "キャントウェイト",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "10.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "サヴォーナ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "11.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ショウナンマグマ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "138.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "シリウスコルト",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "43.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ゼンダンハヤブサ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "46.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "センツブラッド",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "75.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ニシノレヴナント",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "82.3",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "バルナバ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "94.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "バレエマスター",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "104.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "フィーリウス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "46.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "フォルテアンジェロ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "5.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ボーンディスウェイ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "71.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "マリアイリダータ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "4.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "メイショウハチコウ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "16.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ヨヒーン",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "46.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "リビアングラス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "86.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "レイニング",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "8.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   }
+               ]
+}

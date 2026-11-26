@@ -1,0 +1,176 @@
+{
+    "id":  "202608050611",
+    "taken":  "2026-11-18 09:48:33",
+    "status":  "yoso",
+    "official":  "2026-11-18 09:45:21",
+    "horses":  [
+                   {
+                       "name":  "アドマイヤズーム",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "9.3",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "アンパドゥ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "21.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ウォーターリヒト",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "61.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エコロアルバ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "48.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エコロブルーム",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "33.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エルデナリ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "11.6",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "エンブロイダリー",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "3.5",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "オフトレイル",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "35.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ガイアフォース",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "11.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ココナッツブラウン",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "29.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "シックスペンス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "19.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ジューンテイク",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "88.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "スズハローム",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "63.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "スターアニス",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "9.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ドラゴンブースト",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "70.1",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ピコローズ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "119.2",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "マジックサンズ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "26.4",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "レザベーション",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "62.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "レッドシュヴェルト",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "158.7",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ロデオドライブ",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "5.0",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   },
+                   {
+                       "name":  "ワールズエンド",
+                       "num":  "",
+                       "cancel":  false,
+                       "win":  "8.9",
+                       "placeMin":  "",
+                       "placeMax":  ""
+                   }
+               ]
+}

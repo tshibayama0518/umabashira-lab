@@ -1,0 +1,152 @@
+{
+    "id":  "202608050611",
+    "taken":  "2026-11-22 13:05:30",
+    "status":  "middle",
+    "official":  "2026-11-22 13:03:56",
+    "horses":  [
+                   {
+                       "name":  "エルデナリ",
+                       "num":  "1",
+                       "cancel":  false,
+                       "win":  "7.7",
+                       "placeMin":  "3.2",
+                       "placeMax":  "4.1"
+                   },
+                   {
+                       "name":  "エンブロイダリー",
+                       "num":  "2",
+                       "cancel":  false,
+                       "win":  "5.6",
+                       "placeMin":  "1.8",
+                       "placeMax":  "2.2"
+                   },
+                   {
+                       "name":  "ドラゴンブースト",
+                       "num":  "3",
+                       "cancel":  false,
+                       "win":  "108.6",
+                       "placeMin":  "14.4",
+                       "placeMax":  "19.3"
+                   },
+                   {
+                       "name":  "シックスペンス",
+                       "num":  "4",
+                       "cancel":  false,
+                       "win":  "29.9",
+                       "placeMin":  "7.2",
+                       "placeMax":  "9.6"
+                   },
+                   {
+                       "name":  "アドマイヤズーム",
+                       "num":  "5",
+                       "cancel":  false,
+                       "win":  "7.5",
+                       "placeMin":  "2.8",
+                       "placeMax":  "3.7"
+                   },
+                   {
+                       "name":  "ピコローズ",
+                       "num":  "6",
+                       "cancel":  false,
+                       "win":  "80.1",
+                       "placeMin":  "12.4",
+                       "placeMax":  "16.6"
+                   },
+                   {
+                       "name":  "ココナッツブラウン",
+                       "num":  "7",
+                       "cancel":  false,
+                       "win":  "35.7",
+                       "placeMin":  "7.2",
+                       "placeMax":  "9.6"
+                   },
+                   {
+                       "name":  "ロデオドライブ",
+                       "num":  "8",
+                       "cancel":  false,
+                       "win":  "5.8",
+                       "placeMin":  "2.2",
+                       "placeMax":  "2.8"
+                   },
+                   {
+                       "name":  "ジューンテイク",
+                       "num":  "9",
+                       "cancel":  false,
+                       "win":  "83.7",
+                       "placeMin":  "10.0",
+                       "placeMax":  "13.5"
+                   },
+                   {
+                       "name":  "ウォーターリヒト",
+                       "num":  "10",
+                       "cancel":  false,
+                       "win":  "68.0",
+                       "placeMin":  "7.1",
+                       "placeMax":  "9.4"
+                   },
+                   {
+                       "name":  "ガイアフォース",
+                       "num":  "11",
+                       "cancel":  false,
+                       "win":  "10.1",
+                       "placeMin":  "2.7",
+                       "placeMax":  "3.5"
+                   },
+                   {
+                       "name":  "ワールズエンド",
+                       "num":  "12",
+                       "cancel":  false,
+                       "win":  "12.0",
+                       "placeMin":  "3.0",
+                       "placeMax":  "3.9"
+                   },
+                   {
+                       "name":  "レザベーション",
+                       "num":  "13",
+                       "cancel":  false,
+                       "win":  "109.4",
+                       "placeMin":  "16.4",
+                       "placeMax":  "22.0"
+                   },
+                   {
+                       "name":  "スターアニス",
+                       "num":  "14",
+                       "cancel":  false,
+                       "win":  "4.7",
+                       "placeMin":  "2.0",
+                       "placeMax":  "2.4"
+                   },
+                   {
+                       "name":  "エコロブルーム",
+                       "num":  "15",
+                       "cancel":  false,
+                       "win":  "65.4",
+                       "placeMin":  "8.8",
+                       "placeMax":  "11.8"
+                   },
+                   {
+                       "name":  "スズハローム",
+                       "num":  "16",
+                       "cancel":  false,
+                       "win":  "33.2",
+                       "placeMin":  "6.5",
+                       "placeMax":  "8.7"
+                   },
+                   {
+                       "name":  "アンパドゥ",
+                       "num":  "17",
+                       "cancel":  false,
+                       "win":  "19.4",
+                       "placeMin":  "4.7",
+                       "placeMax":  "6.2"
+                   },
+                   {
+                       "name":  "オフトレイル",
+                       "num":  "18",
+                       "cancel":  false,
+                       "win":  "27.9",
+                       "placeMin":  "5.2",
+                       "placeMax":  "6.8"
+                   }
+               ]
+}

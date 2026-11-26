@@ -1,0 +1,8 @@
+# 検証用の大きなデータ・ローカル専用ファイルは入れない
+history_all/
+races/
+races_hid.json
+histall.log
+milecs_2026.json
+*.tsv
+.claude/

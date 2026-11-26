@@ -1,0 +1,129 @@
+{
+    "updated":  "2026-11-26 07:01",
+    "races":  [
+                  {
+                      "id":  "202603030511",
+                      "date":  "2026-11-21",
+                      "race":  "福島記念",
+                      "going":  "良",
+                      "oddsSource":  "発売中のオッズ",
+                      "predMade":  "2026-11-21 00:29:27",
+                      "honsei":  "マリアイリダータ",
+                      "honFinish":  "1",
+                      "honOdds":  "3.3",
+                      "winner":  "マリアイリダータ",
+                      "winnerMark":  "◎",
+                      "winnerOdds":  "3.3",
+                      "favFinish":  "1",
+                      "favWinPay":  330,
+                      "stake":  {
+                                    "win":  100,
+                                    "quinella":  400,
+                                    "wide":  100,
+                                    "trio":  1000,
+                                    "value":  100
+                                },
+                      "ret":  {
+                                  "win":  330,
+                                  "quinella":  0,
+                                  "wide":  0,
+                                  "trio":  0,
+                                  "value":  0
+                              }
+                  },
+                  {
+                      "id":  "202608050611",
+                      "date":  "2026-11-22",
+                      "race":  "マイルCS",
+                      "going":  "良",
+                      "oddsSource":  "発売中のオッズ",
+                      "predMade":  "2026-11-22 13:36:02",
+                      "honsei":  "スターアニス",
+                      "honFinish":  "3",
+                      "honOdds":  "4.2",
+                      "winner":  "エルデナリ",
+                      "winnerMark":  "△",
+                      "winnerOdds":  "7.4",
+                      "favFinish":  "3",
+                      "favWinPay":  0,
+                      "stake":  {
+                                    "win":  100,
+                                    "quinella":  400,
+                                    "wide":  0,
+                                    "trio":  600,
+                                    "value":  100
+                                },
+                      "ret":  {
+                                  "win":  0,
+                                  "quinella":  0,
+                                  "wide":  0,
+                                  "trio":  4730,
+                                  "value":  0
+                              }
+                  },
+                  {
+                      "id":  "202605050611",
+                      "date":  "2026-11-23",
+                      "race":  "東スポ2歳S",
+                      "going":  "良",
+                      "oddsSource":  "発売中のオッズ",
+                      "predMade":  "2026-11-22 13:33:10",
+                      "honsei":  "ショウナンガレオン",
+                      "honFinish":  "2",
+                      "honOdds":  "2.2",
+                      "winner":  "オンユアマークス",
+                      "winnerMark":  "△",
+                      "winnerOdds":  "17.4",
+                      "favFinish":  "2",
+                      "favWinPay":  0,
+                      "stake":  {
+                                    "win":  100,
+                                    "quinella":  400,
+                                    "wide":  0,
+                                    "trio":  600,
+                                    "value":  0
+                                },
+                      "ret":  {
+                                  "win":  0,
+                                  "quinella":  2590,
+                                  "wide":  0,
+                                  "trio":  0,
+                                  "value":  0
+                              }
+                  }
+              ],
+    "week":  [
+                 {
+                     "id":  "202605050611",
+                     "date":  "2026-11-23",
+                     "start":  "15:30",
+                     "name":  "東スポ2歳S",
+                     "grade":  "G2",
+                     "recorded":  true
+                 },
+                 {
+                     "id":  "202608050711",
+                     "date":  "2026-11-28",
+                     "start":  "15:40",
+                     "name":  "京都2歳S",
+                     "grade":  "G3",
+                     "recorded":  false
+                 },
+                 {
+                     "id":  "202605050812",
+                     "date":  "2026-11-29",
+                     "start":  "15:40",
+                     "name":  "ジャパンC",
+                     "grade":  "G1",
+                     "recorded":  false
+                 },
+                 {
+                     "id":  "202608050812",
+                     "date":  "2026-11-29",
+                     "start":  "16:15",
+                     "name":  "京阪杯",
+                     "grade":  "G3",
+                     "recorded":  false
+                 }
+             ]
+}

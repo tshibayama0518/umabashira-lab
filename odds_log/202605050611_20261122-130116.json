@@ -1,0 +1,104 @@
+{
+    "id":  "202605050611",
+    "taken":  "2026-11-22 13:01:16",
+    "status":  "middle",
+    "official":  "2026-11-22 13:00:46",
+    "horses":  [
+                   {
+                       "name":  "ダノンダックス",
+                       "num":  "1",
+                       "cancel":  false,
+                       "win":  "6.7",
+                       "placeMin":  "1.8",
+                       "placeMax":  "2.9"
+                   },
+                   {
+                       "name":  "シルヴァノーブル",
+                       "num":  "2",
+                       "cancel":  false,
+                       "win":  "16.8",
+                       "placeMin":  "2.6",
+                       "placeMax":  "4.3"
+                   },
+                   {
+                       "name":  "テンカタイヘイ",
+                       "num":  "3",
+                       "cancel":  false,
+                       "win":  "101.1",
+                       "placeMin":  "10.7",
+                       "placeMax":  "19.0"
+                   },
+                   {
+                       "name":  "キングリア",
+                       "num":  "4",
+                       "cancel":  false,
+                       "win":  "8.0",
+                       "placeMin":  "1.1",
+                       "placeMax":  "1.4"
+                   },
+                   {
+                       "name":  "ジョドレルバンク",
+                       "num":  "5",
+                       "cancel":  false,
+                       "win":  "8.9",
+                       "placeMin":  "2.3",
+                       "placeMax":  "3.8"
+                   },
+                   {
+                       "name":  "ティフォシ",
+                       "num":  "6",
+                       "cancel":  false,
+                       "win":  "55.1",
+                       "placeMin":  "4.5",
+                       "placeMax":  "7.9"
+                   },
+                   {
+                       "name":  "スローブギ",
+                       "num":  "7",
+                       "cancel":  false,
+                       "win":  "43.7",
+                       "placeMin":  "5.2",
+                       "placeMax":  "9.1"
+                   },
+                   {
+                       "name":  "コラリオン",
+                       "num":  "8",
+                       "cancel":  false,
+                       "win":  "14.8",
+                       "placeMin":  "2.6",
+                       "placeMax":  "4.4"
+                   },
+                   {
+                       "name":  "ニースケンス",
+                       "num":  "9",
+                       "cancel":  false,
+                       "win":  "81.7",
+                       "placeMin":  "10.0",
+                       "placeMax":  "17.8"
+                   },
+                   {
+                       "name":  "ショウナンガレオン",
+                       "num":  "10",
+                       "cancel":  false,
+                       "win":  "1.8",
+                       "placeMin":  "1.4",
+                       "placeMax":  "1.9"
+                   },
+                   {
+                       "name":  "ビンドゥング",
+                       "num":  "11",
+                       "cancel":  false,
+                       "win":  "28.0",
+                       "placeMin":  "2.7",
+                       "placeMax":  "4.6"
+                   },
+                   {
+                       "name":  "オンユアマークス",
+                       "num":  "12",
+                       "cancel":  false,
+                       "win":  "9.8",
+                       "placeMin":  "3.3",
+                       "placeMax":  "5.6"
+                   }
+               ]
+}
