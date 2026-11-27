@@ -1,0 +1,96 @@
+{
+    "id":  "202608050711",
+    "taken":  "2026-11-27 20:53:10",
+    "status":  "middle",
+    "official":  "2026-11-27 20:50:05",
+    "horses":  [
+                   {
+                       "name":  "アーケントレイル",
+                       "num":  "1",
+                       "cancel":  false,
+                       "win":  "27.9",
+                       "placeMin":  "3.9",
+                       "placeMax":  "10.8"
+                   },
+                   {
+                       "name":  "シャローチャンプ",
+                       "num":  "2",
+                       "cancel":  false,
+                       "win":  "10.3",
+                       "placeMin":  "5.3",
+                       "placeMax":  "15.1"
+                   },
+                   {
+                       "name":  "ショウナンバトレニ",
+                       "num":  "3",
+                       "cancel":  false,
+                       "win":  "8.2",
+                       "placeMin":  "1.1",
+                       "placeMax":  "1.6"
+                   },
+                   {
+                       "name":  "フェイマスジャズ",
+                       "num":  "4",
+                       "cancel":  false,
+                       "win":  "55.7",
+                       "placeMin":  "6.7",
+                       "placeMax":  "19.1"
+                   },
+                   {
+                       "name":  "エトワールハマー",
+                       "num":  "5",
+                       "cancel":  false,
+                       "win":  "6.2",
+                       "placeMin":  "2.1",
+                       "placeMax":  "5.4"
+                   },
+                   {
+                       "name":  "ゴールデンプロミス",
+                       "num":  "6",
+                       "cancel":  false,
+                       "win":  "10.7",
+                       "placeMin":  "2.3",
+                       "placeMax":  "6.0"
+                   },
+                   {
+                       "name":  "ポルトブルー",
+                       "num":  "7",
+                       "cancel":  false,
+                       "win":  "43.7",
+                       "placeMin":  "5.6",
+                       "placeMax":  "15.8"
+                   },
+                   {
+                       "name":  "ノヴァヴェローチェ",
+                       "num":  "8",
+                       "cancel":  false,
+                       "win":  "4.0",
+                       "placeMin":  "1.1",
+                       "placeMax":  "1.1"
+                   },
+                   {
+                       "name":  "ネーロノワール",
+                       "num":  "9",
+                       "cancel":  false,
+                       "win":  "4.3",
+                       "placeMin":  "2.9",
+                       "placeMax":  "7.6"
+                   },
+                   {
+                       "name":  "ドラゴンバルド",
+                       "num":  "10",
+                       "cancel":  false,
+                       "win":  "5.1",
+                       "placeMin":  "1.4",
+                       "placeMax":  "3.3"
+                   },
+                   {
+                       "name":  "サノノキセキ",
+                       "num":  "11",
+                       "cancel":  false,
+                       "win":  "35.7",
+                       "placeMin":  "4.4",
+                       "placeMax":  "12.3"
+                   }
+               ]
+}
